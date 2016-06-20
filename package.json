@@ -1,0 +1,20 @@
+{
+  "name": "alexa-catfeeder",
+  "version": "0.0.1",
+  "description": "Alexa gateway to the cat feeder",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Karl Bunch <karlbunch@karlbunch.com>",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-app": "^2.3.4",
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.3.0",
+    "lodash": "^4.13.1",
+    "mocha": "^2.5.3",
+    "moment": "^2.13.0",
+    "request-promise": "^3.0.0"
+  }
+}
